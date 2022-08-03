@@ -40,3 +40,10 @@ public class DateTransform
     }
 
 }
+
+
+//answer:
+//https://stackoverflow.com/questions/70508654/c-sharp-an-application-requires-date-formats-to-be-converted-into-one-common-dat
+
+//toList()
+//https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.tolist?view=net-6.0
